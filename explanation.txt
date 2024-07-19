@@ -1,0 +1,5 @@
+addExpense Function: Adds a new expense to the list and saves it to localStorage. Updates the total amount and clears the input fields.
+addExpenseToList Function: Adds an expense to the HTML list.
+loadExpenses Function: Loads existing expenses from localStorage when the page is loaded.
+clearAllExpenses Function: Clears all expenses from the list and localStorage.
+Event Listeners: Handles button clicks and Enter key presses to add expenses or clear all.
